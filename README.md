@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self-taught **software developer** with 5 years of experience. I’ve built things on both the frontend and backend, but my heart belongs to backend development.
 
 * 🌍  I'm based in Spain
-* ✍️  See my blog at [La última neurona](http://laultimaneurona.com/)
+* ✍️  See my [articles](https://github.com/diegofr-98/articles)
 * ✉️  You can contact me at [royroy1040@gmail.com](mailto:royroy1040@gmail.com)
 * 👥💬 Schedule a meeting with me at [Calendly](https://calendly.com/royroy1040/30min)
 * 🚀  I'm currently working on [Accesit Inclusivo](http://www.acctua.eu/)
